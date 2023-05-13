@@ -1,0 +1,43 @@
+
+.text{
+    bottom: 20px;
+    right: 30px;
+    left: 30px;
+    background-color: white;
+    text-align: center;
+}
+
+img{
+    height: 600px;
+}
+
+#fixed-box{
+    background-color: rgba(0,0,0 ,0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+#close-btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: aliceblue;
+}
+#left-btn{
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    color: aliceblue;
+}
+#right-btn{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    color: aliceblue;
+}
+
+
+
+
